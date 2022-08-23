@@ -4,6 +4,7 @@
     font-family: sans-serif;
     color: black;
     outline: none;
+    -webkit-tap-highlight-color: transparent;
 }
 
 body {
